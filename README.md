@@ -1,18 +1,18 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Figma portfolio site, using given templates.
+A Capstone Project, for Redux and React, with the use case of API Interaction.
 
-> This project is intended to use actionable use cases of my current coding knowledge and to adjacently expand that knowledge, for ever increasing productivity, effectiveness and utility; therefore I have been directed to create a figma based portfolio by microverse, using given templates.
+> This project is intended to use actionable use cases of my current coding knowledge and to adjacently expand that knowledge, for ever increasing productivity, effectiveness and utility; therefore I have created a React and Redux, With API interaction, based APP for microverse.
 
 ## Built With
 
-- CSS/HTML
-- GITHUB
-- Figma.
+- React/Redux/JS/HTML/CSS
+- GITHUB/VS CODE
+- GIT/APIS/NPM/YARN
 
 Live Demo.
 
-[Live Demo Link](https://crystallinebutterfly.github.io/CrystallineButterfly.porfolio/)
+[Live Demo Link]()
 
 ## Getting Started
 
@@ -40,12 +40,6 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@CrystallineButterfly](https://github.com/CrystallineButterfly)
 - Twitter: [@CrystAlline_k42](https://twitter.com/CrystAlline_K42)
 - LinkedIn: [Kell Mcwatt](https://www.linkedin.com/in/kell-mcwatt-6357ab234/)
-
-👤 **Author2**
-
-- GitHub: @sameh080081
-- Twitter: @same080081
-- LinkedIn: sameh080081
 
 ## 🤝 Contributing
 

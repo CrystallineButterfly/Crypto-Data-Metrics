@@ -1,16 +1,15 @@
-/* eslint-disable testing-library/prefer-screen-queries */
 import React from 'react';
-import { render } from '@testing-library/react';
+// import { BrowserRouter } from 'react-router-dom';
+import render from 'react-test-renderer';
 import { Provider } from 'react-redux';
-import { store } from '../app/store';
+import store from '../Redux/configureStore';
 import App from '../App';
 
-test('renders learn react link', () => {
-  const { getByText } = render(
+it('Test if here App renders correctly', () => {
+  const TREE = render.create(
     <Provider store={store}>
       <App />
-    </Provider>
+    </Provider>,
   );
-
-  expect(getByText(/learn/i)).toBeInTheDocument();
+  expect(TREE).toMatchSnapshot();
 });

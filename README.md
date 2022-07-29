@@ -12,26 +12,25 @@ A Capstone Project, for Redux and React, with the use case of API Interaction.
 
 Live Demo.
 
-[Live Demo Link]()
+[Live Demo Link](leafy-zabaione-f925e7.netlify.app)
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
 ### Setup
+
+Npm Start
+
+Npm Run Build
+
+To test: Npm Run test
 
 ### Install
 
-### Usage
-
-### Run tests
+git clone, then run Npm install
 
 ### Deployment
+
+I deployed using https://app.netlify.com
 
 ## Authors
 

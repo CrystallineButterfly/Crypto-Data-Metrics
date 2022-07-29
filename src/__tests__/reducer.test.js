@@ -1,7 +1,7 @@
 import CryptoReducer from '../Redux/cryptoReducer';
 
 const Url = 'FETCH_COINS';
-describe('Test the CryptoReducer Function', () => {
+describe('Test to find out if CryptoReducer Function works', () => {
   test('CryptoReducer to return an empty array if action is Undefined', () => {
     const testingState = [];
     const Result = CryptoReducer(undefined, {

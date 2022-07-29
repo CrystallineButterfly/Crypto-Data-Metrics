@@ -5,7 +5,7 @@ import { Provider } from 'react-redux';
 import store from '../Redux/configureStore';
 import Header from '../Components/Header';
 
-it('Test if header render correctly', () => {
+it('Test to see if header renders correctly', () => {
   const TREE = TestRenderer.create(
     <Provider store={store}>
       <BrowserRouter>

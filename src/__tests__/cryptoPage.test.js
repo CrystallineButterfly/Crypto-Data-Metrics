@@ -5,7 +5,7 @@ import { Provider } from 'react-redux';
 import store from '../Redux/configureStore';
 import CryptoPage from '../Components/CryptoPage';
 
-it('Test if The CryptoPage render correctly', () => {
+it('Test if The CryptoPage renders correctly', () => {
   const TREE = TestRenderer.create(
     <Provider store={store}>
       <BrowserRouter>

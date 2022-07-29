@@ -53,9 +53,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- To [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio) for the coolest design graphics inspiration
 
 ## 📝 License
 

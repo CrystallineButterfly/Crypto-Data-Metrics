@@ -12,7 +12,7 @@ A Capstone Project, for Redux and React, with the use case of API Interaction.
 
 Live Demo.
 
-[Live Demo Link](leafy-zabaione-f925e7.netlify.app)
+[Live Demo Link](https://leafy-zabaione-f925e7.netlify.app/)
 
 ## Getting Started
 
